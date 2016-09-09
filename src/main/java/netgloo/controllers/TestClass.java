@@ -5,5 +5,5 @@ package netgloo.controllers;
  */
 public class TestClass
 {
-    int x;
+    int t;
 }
